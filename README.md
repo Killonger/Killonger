@@ -1,4 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Anton
+
+💻 Junior Developer  
+🌍 Ukraine  
+🎯 Focus: Web development  
+
+## 🛠 Tech Stack
+- PHP
+- MySQL
+- HTML / CSS
+- Git & GitHub
+- C# (basic)
+
+## 📌 Projects
+- 🗂 Task Manager — PHP + MySQL (in progress)
+
+## 📈 Goals
+- Build strong portfolio
+- Get first commercial experience
 
 <!--
 **Killonger/Killonger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
